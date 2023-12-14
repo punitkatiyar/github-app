@@ -1,6 +1,6 @@
 # Github App
 
-<img src="src/image/sample.jpg" height="300px" width="1000px">
+<img src="sample.jpg" height="300px" width="1000px">
 
 ## Feature
 
